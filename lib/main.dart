@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 import 'package:practice_shop/pages/login_page.dart';
-import './pages/homePage.dart';
+import './pages/HomePage.dart';
 import './pages/login_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 
